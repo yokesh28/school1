@@ -1,1 +1,123 @@
 @CHARSET "UTF-8";
+
+html{
+	
+	
+}
+
+body {
+font: 12px Signika;
+color: #504e4b;
+overflow-x:scroll;
+zoom:90%;
+}
+
+/*header*/
+
+header {
+width: 940px;
+height: 110px;
+position: fixed;
+top: -160px;
+left: 50%;
+margin-left: -470px;
+background: transparent url('../img/sprite_interface.png') no-repeat 0 0px;
+z-index: 1000;
+display: block;
+}
+header nav {
+display: block;
+padding: 20px 0px 0 50px;
+}
+ul{
+	
+	list-style: none;
+}
+nav ul {
+margin: 0;
+padding: 0;
+
+}
+
+nav li {
+float: left;
+list-style: none;
+
+}
+nav li:last-child {
+border-right: none;
+}
+
+
+header nav .menu0 {
+background-position: -25px -127px;
+border-right: 1px dotted;
+
+
+}
+
+header nav .menu0:HOVER {
+background-position: -219px -114px;
+}
+
+header nav .menu1 {
+background-position: -34px -217px;
+}
+header nav .menu1:HOVER {
+background-position: -254px -212px;
+}
+
+
+header nav .menu2 {
+background-position: -9px -313px;
+}
+header nav .menu2:HOVER {
+background-position: -229px -314px;
+}
+
+header nav .menu3 {
+background-position: -10px -413px;
+}
+header nav .menu3:HOVER {
+background-position: -230px -414px;
+}
+
+header nav .menu4 {
+background-position: -3px -513px;
+}
+
+header nav .menu4:HOVER {
+background-position: -223px -514px;
+}
+
+header nav .menu5 {
+background-position: -28px -613px;
+}
+
+header nav .menu5:HOVER {
+background-position: -248px -614px;
+}
+a{
+	margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+}
+
+
+header nav a {
+display: block;
+text-decoration: none;
+
+line-height: 20px;
+font-weight: bold;
+text-align: center;
+font: 14px/normal 'bebas_neueregular';
+color: #333230;
+padding: 18px 33px;
+background: transparent url('../img/sprite_interface.png') no-repeat;
+margin: 15px 4px;
+}
