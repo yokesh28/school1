@@ -6,10 +6,21 @@ html{
 }
 
 body {
+	
 font: 12px Signika;
 color: #504e4b;
 overflow-x:scroll;
+overflow-y:scroll;
 zoom:90%;
+}
+
+.sport{
+	
+	position: relative;
+	width: 100%;
+height: 100%;
+	background:  url('../img/bg1.png')no-repeat;
+	
 }
 
 /*header*/
@@ -47,55 +58,65 @@ list-style: none;
 nav li:last-child {
 border-right: none;
 }
-
+header nav b{
+	font-weight: normal;
+margin-left:20px;
+	
+}
 
 header nav .menu0 {
-background-position: -25px -127px;
+background-position: -33px -126px;
 border-right: 1px dotted;
+
 
 
 }
 
 header nav .menu0:HOVER {
-background-position: -219px -114px;
+background-position: -253px -127px;
 }
 
 header nav .menu1 {
-background-position: -34px -217px;
+background-position: -34px -223px;
+border-right: 1px dotted;
+
 }
 header nav .menu1:HOVER {
-background-position: -254px -212px;
+background-position: -254px -224px;
 }
 
 
 header nav .menu2 {
-background-position: -9px -313px;
+background-position: -27px -325px;
+border-right: 1px dotted;
 }
 header nav .menu2:HOVER {
-background-position: -229px -314px;
+background-position: -247px -326px;
 }
 
 header nav .menu3 {
-background-position: -10px -413px;
+background-position: -26px -427px;
+border-right: 1px dotted;
 }
 header nav .menu3:HOVER {
-background-position: -230px -414px;
+background-position: -246px -428px;
 }
 
 header nav .menu4 {
-background-position: -3px -513px;
+background-position: -27px -524px;
+border-right: 1px dotted;
 }
 
 header nav .menu4:HOVER {
-background-position: -223px -514px;
+background-position: -247px -525px;
 }
 
 header nav .menu5 {
-background-position: -28px -613px;
+background-position: -34px -624px;
 }
 
 header nav .menu5:HOVER {
-background-position: -248px -614px;
+background-position: -254px -625px;
 }
 a{
 	margin: 0;
@@ -117,7 +138,144 @@ font-weight: bold;
 text-align: center;
 font: 14px/normal 'bebas_neueregular';
 color: #333230;
-padding: 18px 33px;
+padding: 18px 20px;
 background: transparent url('../img/sprite_interface.png') no-repeat;
-margin: 15px 4px;
+margin: 15px 10px;
 }
+
+
+
+
+
+/*circle img*/
+
+
+.circular {
+	
+	position: absolute;
+top: 60%;
+left: 44%;
+	width: 250px;
+	height: 250px;
+	
+	z-index: 10;
+background-color:#1687A7;
+  border-radius: 50%;
+
+}
+.cir-img{
+	position:relative;
+	
+}
+.circularimg{
+	position:absolute;
+	left: 15px;
+top: 10px;
+	
+}
+
+.circularimg img{
+	
+	width: 230px;
+}
+
+
+/*circular1 img */
+
+
+.circular1 {
+	
+	position: absolute;
+top: 25%;
+left: 83%;
+width: 200px;
+height: 200px;
+	
+	z-index: 10;
+background-color:#F89633;
+  border-radius: 50%;
+
+}
+.cir-img1{
+	position:relative;
+	
+}
+.circularimg1{
+	position:absolute;
+	left: 9px;
+top: 15px;
+	
+}
+
+.circularimg1 img{
+	
+	width: 170px;
+}
+
+
+
+/*circular2 img */
+
+
+.circular2 {
+	
+	position: absolute;
+top: 35%;
+left: 60%;
+width: 370px;
+height: 370px;
+	
+	z-index: 10;
+background-color:#1687A7;
+  border-radius: 50%;
+
+}
+.cir-img2{
+	position:relative;
+	
+}
+.circularimg2{
+	position:absolute;
+	left: 5px;
+top: 20px;
+	
+}
+
+.circularimg2 img{
+	
+	width: 340px;
+}
+
+/*circular3 img */
+
+
+.circular3 {
+	
+	position: absolute;
+top: 35%;
+left: 15%;
+width: 340px;
+height: 340px;
+	
+	z-index: 10;
+background-color:#F89633;
+  border-radius: 50%;
+
+}
+.cir-img3{
+	position:relative;
+	
+}
+.circularimg3{
+	position:absolute;
+	left: 12px;
+top: 24px;
+	
+}
+
+.circularimg3 img{
+	
+	width: 340px;
+}
+
+
