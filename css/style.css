@@ -1,25 +1,29 @@
 @CHARSET "UTF-8";
 
 html{
-	
+	overflow-x:scroll;
+overflow-y:scroll;
 	
 }
 
 body {
-	
+background:  url('../img/bg.png')repeat;	
 font: 12px Signika;
 color: #504e4b;
-overflow-x:scroll;
-overflow-y:scroll;
+
 zoom:90%;
 }
+img {
+margin: 0;
+padding: 0px;
+}
 
-.sport{
+.sport img{
 	
 	position: relative;
 	width: 100%;
-height: 100%;
-	background:  url('../img/bg1.png')no-repeat;
+
+	
 	
 }
 
@@ -153,7 +157,7 @@ margin: 15px 10px;
 .circular {
 	
 	position: absolute;
-top: 60%;
+top: 56%;
 left: 44%;
 	width: 250px;
 	height: 250px;
@@ -222,8 +226,8 @@ top: 15px;
 	position: absolute;
 top: 35%;
 left: 60%;
-width: 370px;
-height: 370px;
+width: 375px;
+height: 375px;
 	
 	z-index: 10;
 background-color:#1687A7;
@@ -278,4 +282,180 @@ top: 24px;
 	width: 340px;
 }
 
+/* second content */
+
+.infrastructure img{
+	position: relative;
+	width: 100%;
+		
+}
+
+/*third content*/
+
+.advertisement{
+	position: relative;
+	width: 960px;
+margin: 0 auto;
+}
+.adm-open
+{
+	margin-bottom: -10px;
+background: #1687A7;
+width: 480px;
+}
+
+.adm-open h3{
+	margin-left:10px;
+color: #DEDBD4;
+}
+.adm-open h1{
+	margin-left:10px;
+color: white;
+}
+.adv-open{
+	color:white;
+background: #35393C;
+width: 480px;
+
+}
+.adv-open p{
+	font-size: 18px;
+padding: 24.5px 12px;
+}
+
+
+.adv-open img{
+padding: 10px 10px;
+}
+
+.ad-mision{
+	
+	float: left;
+}
+
+.rank{
+	float:left;
+	width:480px;
+	margin-top: 86px;
+	background: black;
+	color:white;
+}
+
+.rank img{
+	float: left;
+	width: 100px;
+}
+.rank ul{
+	
+	margin: 0px;
+padding: 0px;
+}
+.rank ul li{
+	
+	float: left;
+}
+
+.rank p{
+	font-size: 17px;
+	float: left;
+padding:0px  15px ;
+}
+.rank b{
+	color: #FA9800;
+}
+/*icon*/
+
+
+.icon-ad1{
+	
+	position: absolute;
+	top: -40px;
+right: 100px;
+	
+}
+
+.icon-ad1 img{
+	width: 80px;
+}
+.icon-ad2{
+	
+	position: absolute;
+	top: 10px;
+right: -130px;
+	
+}
+
+.icon-ad2 img{
+	width: 90px;
+}
+
+
+.icon-ad3{
+	
+	position: absolute;
+	top: 133px;
+right: -190px;
+	
+}
+
+.icon-ad3 img{
+	width: 100px;
+}
+
+
+.icon-ad4{
+	
+	position: absolute;
+	top: 287px;
+right: -149px;
+	
+}
+
+.icon-ad4 img{
+	width: 85px;
+}
+
+
+
+
+
+.icon-ad5{
+	
+	position: absolute;
+	top: 10px;
+left: -130px;
+	
+}
+
+.icon-ad5 img{
+	width: 80px;
+}
+
+
+
+.icon-ad6{
+	
+	position: absolute;
+	top: 133px;
+left: -190px;
+	
+}
+
+.icon-ad6 img{
+	width: 100px;
+}
+
+
+
+.icon-ad7{
+	
+	position: absolute;
+	top: 287px;
+left: -149px;
+	
+}
+
+.icon-ad7 img{
+	width: 100px;
+}
 

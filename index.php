@@ -8,35 +8,9 @@
 </head>
 <body>
 	<div class="sport">
-		<header class="show-page-oferta" style="top: 0px;">
+		<img alt="" src="img/bg1.png">
+		<?php include 'header.php';?>
 
-
-			<nav>
-				<ul>
-					<li><a id="go-start" href="#" class="goto ico0 menu0"><b>HOME </b>
-					</a>
-					</li>
-					<li><a id="go-o-nas" href="#" class="goto ico1 menu1"> <b>CURRICULUM</b>
-					</a>
-					</li>
-					<li><a id="go-oferta" href="#" class="goto ico2 menu2"> <b>SCHOOL </b>
-					</a>
-					</li>
-					<li><a id="go-jak-pracujemy" href="#" class="goto ico3 menu3"><b>GALLERY</b>
-					</a>
-					</li>
-					<li><a id="go-cennik" href="#" class="goto ico4 menu4"> <b>NEWS</b>
-					</a>
-					</li>
-					<li><a id="go-kontakt" href="#" class="goto ico5 menu5"><b>
-								CONTACTUS </b>
-					</a>
-					</li>
-				</ul>
-			</nav>
-
-
-		</header>
 
 
 		<div class="circular">
@@ -55,7 +29,7 @@
 			</div>
 		</div>
 
-		
+
 		<div class="circular2">
 			<div class="cir-img2">
 				<div class="circularimg2">
@@ -63,9 +37,9 @@
 				</div>
 			</div>
 		</div>
-		
-				
-		
+
+
+
 		<div class="circular3">
 			<div class="cir-img3">
 				<div class="circularimg3">
@@ -76,6 +50,78 @@
 
 
 	</div>
+	<div class="infrastructure">
+		<img alt="" src="img/bg2.png">
+	</div>
+
+
+	<div class="advertisement">
+		<div class="icon-ad1">
+			<img alt="" src="img/icon1.png">
+
+		</div>
+
+		<div class="icon-ad2">
+			<img alt="" src="img/icon2.png">
+
+		</div>
+		<div class="icon-ad3">
+			<img alt="" src="img/icon3.png">
+
+		</div>
+		<div class="icon-ad4">
+			<img alt="" src="img/icon4.png">
+
+		</div>
+		<div class="icon-ad5">
+			<img alt="" src="img/icon5.png">
+
+		</div>
+		<div class="icon-ad6">
+			<img alt="" src="img/icon6.png">
+
+		</div>
+		<div class="icon-ad7">
+			<img alt="" src="img/icon7.png">
+
+		</div>
+
+		<div class="ad-mision">
+			<div class="adm-open">
+				<h1>ADMISSION OPEN!</h1>
+				<h3>NEWS&UPDATES</h3>
+			</div>
+
+			<div class="adv-open">
+				<p>
+					Information for new students joining <b>sri<br> Nachammal Vidyalaya
+					</b>Download<br> online Admission form here
+				</p>
+				<img alt="" src="img/read.png">
+
+			</div>
+		</div>
+		<div class="rank">
+
+			<ul>
+				<li><img alt="" src="img/rank1.png">
+					<p>
+						<b>Arun kumar (Grade V)</b><br>First Rank In Half-yearly <br>Examination
+					</p></li>
+
+			</ul>
+			<ul>
+				<li><img alt="" src="img/rank2.png">
+					<p>
+						<b>Steffy (Grade Vii)</b><br>First Rank In Half-yearly <br>Examination
+					</p></li>
+
+			</ul>
+
+		</div>
+	</div>
+
+
 </body>
 
 </html>
