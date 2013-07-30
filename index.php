@@ -107,18 +107,49 @@
 				<li><img alt="" src="img/rank1.png">
 					<p>
 						<b>Arun kumar (Grade V)</b><br>First Rank In Half-yearly <br>Examination
-					</p></li>
+					</p>
+				</li>
 
 			</ul>
 			<ul>
 				<li><img alt="" src="img/rank2.png">
 					<p>
 						<b>Steffy (Grade Vii)</b><br>First Rank In Half-yearly <br>Examination
-					</p></li>
+					</p>
+				</li>
 
 			</ul>
 
 		</div>
+	</div>
+
+
+
+	<!-- entertainment -->
+
+
+
+	<div class="entertainment">
+
+		<img alt="" src="img/bg3.png">
+
+	</div>
+
+	<div class="ent-bg">
+
+		<ul>
+			<li><img alt="" src="img/rank1.png"></li>
+			<li><img alt="" src="img/rank2.png"></li>
+			<li><img alt="" src="img/rank1.png"></li>
+		</ul>
+
+
+	</div>
+	
+	
+	<div class="bt-foot">
+	
+	<img alt="" src="img/bottom.png">
 	</div>
 
 

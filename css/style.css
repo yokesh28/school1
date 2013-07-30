@@ -284,11 +284,21 @@ top: 24px;
 
 /* second content */
 
+
+.infrastructure{
+
+position: relative;
+width: 960px;
+margin: 0 auto;
+}
+
 .infrastructure img{
 	position: relative;
 	width: 100%;
 		
 }
+
+
 
 /*third content*/
 
@@ -320,7 +330,7 @@ width: 480px;
 }
 .adv-open p{
 	font-size: 18px;
-padding: 24.5px 12px;
+padding: 26px 12px;
 }
 
 
@@ -459,3 +469,34 @@ left: -149px;
 	width: 100px;
 }
 
+.entertainment img{
+	
+	position: relative;
+width: 100%;
+top: 120px;
+}
+.ent-bg{
+	
+	position: relative;
+	width: 960px;
+	height: 200px;
+	margin: 0 auto;
+	background: #1687A7;
+	border: 1px solid black !important;
+	bottom: 35%;
+	
+}
+.ent-bg ul li{
+	margin-left: 45px;
+	margin-top: 12px;
+width: 250px;
+float: left;
+	
+}
+
+.bt-foot img{
+	
+	
+	position: relative;
+width: 100%;
+}
