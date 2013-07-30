@@ -107,16 +107,14 @@
 				<li><img alt="" src="img/rank1.png">
 					<p>
 						<b>Arun kumar (Grade V)</b><br>First Rank In Half-yearly <br>Examination
-					</p>
-				</li>
+					</p></li>
 
 			</ul>
 			<ul>
 				<li><img alt="" src="img/rank2.png">
 					<p>
 						<b>Steffy (Grade Vii)</b><br>First Rank In Half-yearly <br>Examination
-					</p>
-				</li>
+					</p></li>
 
 			</ul>
 
@@ -138,19 +136,77 @@
 	<div class="ent-bg">
 
 		<ul>
-			<li><img alt="" src="img/rank1.png"></li>
-			<li><img alt="" src="img/rank2.png"></li>
-			<li><img alt="" src="img/rank1.png"></li>
+			<li><img alt="" src="img/rank1.png">
+			</li>
+			<li><img alt="" src="img/rank2.png">
+			</li>
+			<li><img alt="" src="img/rank1.png">
+			</li>
 		</ul>
 
 
 	</div>
-	
-	
+
+
 	<div class="bt-foot">
-	
-	<img alt="" src="img/bottom.png">
+
+		<img alt="" src="img/bottom.png">
 	</div>
+
+	<!-- footer -->
+	<div class="bot-footer col">
+		<div id="footer">
+
+			<div class="footbox">
+				<h2>Lacus interdum</h2>
+				<ul>
+					<li><a href="#">Lorem ipsum dolor</a></li>
+					<li><a href="#">Suspendisse in neque</a></li>
+					<li><a href="#">Praesent et eros</a></li>
+					<li><a href="#">Lorem ipsum dolor</a></li>
+					<li><a href="#">Suspendisse in neque</a></li>
+					<li class="last"><a href="#">Praesent et eros</a></li>
+				</ul>
+			</div>
+
+			<div class="footbox">
+				<h2>Lacus interdum</h2>
+				<ul>
+					<li><a href="#">Lorem ipsum dolor</a></li>
+					<li><a href="#">Suspendisse in neque</a></li>
+					<li><a href="#">Praesent et eros</a></li>
+					<li><a href="#">Lorem ipsum dolor</a></li>
+					<li><a href="#">Suspendisse in neque</a></li>
+					<li class="last"><a href="#">Praesent et eros</a></li>
+				</ul>
+			</div>
+
+
+
+
+
+		</div>
+
+
+	</div>
+
+	<!-- copywright -->
+	<div class="bot-footer1 col1">
+
+		<div id="copyright">
+			<p class="fl_left">
+				Copyright © 2009 - 2013 - All Rights Reserved - <a href="#">Domain
+					Name</a>
+			</p>
+			<p class="fl_right">
+				Template by <a href="#" title="">OS Templates</a>
+			</p>
+			<br class="clear">
+		</div>
+	</div>
+
+
+
 
 
 </body>
