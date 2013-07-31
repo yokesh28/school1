@@ -158,26 +158,26 @@
 		<div id="footer">
 
 			<div class="footbox">
-				<h2>Lacus interdum</h2>
+				<h1>Contact Us</h1>
 				<ul>
-					<li><a href="#">Lorem ipsum dolor</a></li>
-					<li><a href="#">Suspendisse in neque</a></li>
-					<li><a href="#">Praesent et eros</a></li>
-					<li><a href="#">Lorem ipsum dolor</a></li>
-					<li><a href="#">Suspendisse in neque</a></li>
-					<li class="last"><a href="#">Praesent et eros</a></li>
+					<li><b>SRI NACHAMMAL VIDYAVANI</b><br>Ammasai Nagar,Ayyavu Tower,Devarayampalayam,<br>
+					   Bye pass road(New 4 Track),,Avinashi, Tirupur (Dt).</li>
+					
+					
+					<li class="last">+ 91 4296 291744<br>+91 80568 12088, | +91 77080 07988<br>info@nachammal.com</li>
 				</ul>
 			</div>
 
-			<div class="footbox">
-				<h2>Lacus interdum</h2>
+			<div class="footbox1">
+			<img  alt="" src="img/flogo.png">
+				<h2>Group of Companies</h2>
+				<img class="fline" alt="" src="img/fline.png">
 				<ul>
-					<li><a href="#">Lorem ipsum dolor</a></li>
-					<li><a href="#">Suspendisse in neque</a></li>
-					<li><a href="#">Praesent et eros</a></li>
-					<li><a href="#">Lorem ipsum dolor</a></li>
-					<li><a href="#">Suspendisse in neque</a></li>
-					<li class="last"><a href="#">Praesent et eros</a></li>
+					<li><b>The Chennai Silks</b></li>
+					<li><b>Sree Kumaran</b><br>Thangamaligai</li>
+					<li><b>Scm Group</b><br>companies</li>
+					
+					
 				</ul>
 			</div>
 
@@ -195,8 +195,7 @@
 
 		<div id="copyright">
 			<p class="fl_left">
-				Copyright © 2009 - 2013 - All Rights Reserved - <a href="#">Domain
-					Name</a>
+				Copyright © Nachammal |Designed by<a href="#">S-Creative</a>
 			</p>
 			<p class="fl_right">
 				Template by <a href="#" title="">OS Templates</a>
