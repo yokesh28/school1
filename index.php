@@ -179,6 +179,14 @@
 					
 					
 				</ul>
+				
+				<img class="fline1" alt="" src="img/fline.png">
+				
+				
+				<div class="f-child">
+				<img alt="" src="img/fchild.jpg">
+				
+				</div>
 			</div>
 
 
@@ -194,12 +202,17 @@
 	<div class="bot-footer1 col1">
 
 		<div id="copyright">
-			<p class="fl_left">
+		<div class="copy-1">
+			<p class="">
 				Copyright © Nachammal |Designed by<a href="#">S-Creative</a>
 			</p>
-			<p class="fl_right">
+			</div>
+			
+			<div class="copy-1">
+			<p class="">
 				Template by <a href="#" title="">OS Templates</a>
 			</p>
+			</div>
 			<br class="clear">
 		</div>
 	</div>
